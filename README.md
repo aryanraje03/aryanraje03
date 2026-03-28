@@ -22,7 +22,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanraje03&show_icons=true&theme=radical)
+https://aryanraje.lovable.app/
 
 ---
 
