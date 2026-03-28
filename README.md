@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aryanraje</h1>
+<h3 align="center">🚀 Aspiring Cloud + AI Engineer</h3>
 
-<!--
-**aryanraje03/aryanraje03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Learner;DevOps+Enthusiast;Full+Stack+Developer;AI+Explorer&center=true&width=500&height=45">
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 BTech CSE Student (2025 Passout)
+- ☁️ Currently learning AWS & DevOps
+- 🤖 Interested in AI/ML
+- 💼 Looking for IT Job (Pune)
+
+---
+
+### 🛠️ Tech Stack
+- 💻 Languages: Java, Python, JavaScript  
+- 🌐 Web: React, Node.js  
+- ☁️ Cloud: AWS (Beginner)  
+- 🛢️ Database: MySQL  
+
+---
+
+### 📊 GitHub Stats
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanraje03&show_icons=true&theme=radical)
+
+---
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=aryanraje03&theme=radical)
+
+---
+
+### 🚀 Projects
+- 🔹 Full Stack Web App  
+- 🔹 AI Mini Project  
+- 🔹 AWS Deployment Project (Coming Soon)
+
+---
+
+![Typing](https://readme-typing-svg.herokuapp.com/?color=blue&size=25&center=true&vCenter=true&width=600&lines=Cloud+Engineer;AI+Developer;Full+Stack+Dev)
+
+
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
+### 🌐 Connect With Me
+- 💼 LinkedIn: (https://www.linkedin.com/in/aryanraje192003/)
+- 📧 Email: aryanrajedhokale03@gmail.com
