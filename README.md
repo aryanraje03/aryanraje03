@@ -34,7 +34,7 @@ https://aryanraje.lovable.app/
 ### 🚀 Projects
 - 🔹 Full Stack Web App  
 - 🔹 AI Mini Project  
-- 🔹 AWS Deployment Project [ Coming Soon ]
+- 🔹 AWS Deployment Project ( Coming Soon )
 
 ---
 
