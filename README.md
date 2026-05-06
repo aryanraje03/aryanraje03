@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Cloud+Engineer;DevOps+Specialist;Full+Stack+Developer;AI%2FML+Explorer;Open+Source+Contributor&center=true&width=650&height=50&color=0[...]
-" alt="Typing Animation">
+>
 </div>
 
 <div align="center">
