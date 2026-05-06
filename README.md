@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Cloud+Engineer;DevOps+Specialist;Full+Stack+Developer;AI%2FML+Explorer;Open+Source+Contributor&center=true&width=650&height=50&color=0[...]
->
+">
 </div>
 
 <div align="center">
@@ -12,11 +12,11 @@
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## 📊 GitHub Contribution Streak
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=aryanraje03&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aryanraje03&theme=dark&hide_border=false&stroke=00D9FF&ring=00D9FF&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&background=1a1a1a)
 
 </div>
 
