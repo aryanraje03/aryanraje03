@@ -35,11 +35,14 @@
 ---
 
 ## 📊 GitHub Statistics
-https://aryanraje.lovable.app/
 
 <div align="center">
   
+[![Portfolio](https://img.shields.io/badge/📊%20Interactive%20Portfolio-aryanraje.lovable.app-blueviolet?style=for-the-badge)](https://aryanraje.lovable.app/)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanraje03&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanraje03&layout=compact&theme=radical)
 
 </div>
 
@@ -72,6 +75,7 @@ https://aryanraje.lovable.app/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanraje192003/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanrajedhokale03@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanraje03)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://aryanraje.lovable.app/)
 
 </div>
 
