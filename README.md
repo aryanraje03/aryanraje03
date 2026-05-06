@@ -35,6 +35,7 @@
 ---
 
 ## 📊 GitHub Statistics
+https://aryanraje.lovable.app/
 
 <div align="center">
   
